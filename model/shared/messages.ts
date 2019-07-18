@@ -23,6 +23,9 @@ export class APIError extends Error {
     static errServerError(properties?: any, internalProperties?: any) {
         return new APIError("Internal Server Error", "Request could not be carried out.", 500, properties, internalProperties);
     }
+    static errUnauthorizedError(properties?: any, internalProperties?: any) {
+        return new APIError("Unauthorized", "Client Authorization Failed.", 401, properties, internalProperties);
+    }
 }
 
 export class PublicError {

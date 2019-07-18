@@ -8,4 +8,5 @@ const v1_1 = require("./api/v1/v1");
 const app = express_1.default();
 app.disable("x-powered-by");
 app.use("/v1", v1_1.routerV1);
+console.log(process.env.NODE_ENV);
 app.listen(process.env.PORT || 8091, () => console.log("Server Started..."));

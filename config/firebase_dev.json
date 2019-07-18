@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tourapp-udemy",
+  "private_key_id": "a8d94ce1d46ea9692e25f236c71426293de66077",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpLCLzIaBKauop\n+lJTC41ZnNwjf0iarALe49USyogaAZ95cJBxj5QevFh/m9hTDkrRUbMNJ7qf05mt\nmb47dfD9b7N/5CwL/wDeOtzeO2xKwE2gGWQ7W9ehAciaVg3qKn17YP9y/gGrlHX+\n8dBP4GHOxojx0obHZT1s8eSnDPsuGvqpQ+mHOwTeejLYvMUotVlyfsqj+A1lUfN0\n7in4bBMBWKJuJ84xGOGWTzQl2bQOV+3gJMxryynZUcrj5+rDVXM5boE1o8c1e8y9\n+039i3p5eMR5ffuhE3p4dhpUVpI0vJceMHGkFpHPEigRuh/fGqVDU7kd+Ai9XNlg\n0yj9FP+hAgMBAAECggEADFhesoxlJJkZvnd4c3v31C7It8RtmW/tA7PvlB/4f6FX\nsGaA+/CE2BtZf/Jw/lqgJhdGsDKSgWBRKiR6h99K90uj9zTA7B0vRIhaHtOKSwgu\ngfzoXhaNLUAykeSuvkRchNjmu08C8zDxzWl7EKEosgy16KO61ykxqtYaIACoAcyy\nzy9cvHPIk0nLWhNKVw7QVv6a0n3Nltg8FugqVaZsW76Ufp525Epb0lcE1v4bF1V5\n6TxhSgikiDq38EdBXvZXfHiUwf84MYqo/sx9yf99BGIqJDJgd/Gr+sZBz3H0N7QX\nKYISooaj4sOGxYFQkgUflfm4SPo1RQJoqto+nGjj4QKBgQDZ+oF+jATaWc6bL8WI\nGV0YxtPfQ2bc7UWANdQ6m1bPJuD+vHrDDvUw5ZxCBRncqNd6BQvYkOpSdNg7cwKF\nkHiZHqTKqLG3ausNuJ77w+ifyOYZb1tdgnc7cleXIGb3/AMU/GLNHOtFMaXE9B1T\nCU1hFINeVcOO5DSx54/8L6xemQKBgQDGrkS8uq6TsqiBzPTBBAq/tDVamrE/ouhZ\nRxA7wjYatTAjq4W56sAzlWGZgsoq/AUwqo7tkewvlmdMUQJtMIXYG3rvBNm/4tJX\n5odoLCHSsa/yZoZAiNtcQNqiQ+1D5gGy3U0PQi7WPegQF18vT0Y8LNEkwuEXlcgd\nV8IeqZ/2SQKBgGz6RdV7sU1tCtMhPhN+AsJJXVHIw9t+MHoZ72HhmbP1TxVsK7/r\ncYAhu05yeGyOaTQS48pBITVaP2TxafhWs0RyQpcjYb4+kQeKHsnmNx3zdb6PotEM\nUgoBb3MZ+wDOGMhcKhU7+Q/d82+VUDfcdbgsZkU6gYul4gZzq9O8DeQ5AoGBAK5w\nsc9WxRLO6R5WGoshhmJ80d+ENJ3f5csFFt6xDRnz/ZlD7rymvSxNOw0yhViqP9BT\n3/v8g/fgQUADXHMMCGgO8KfNhXXxq6cbs8WmAehgtE/K7pLY1miwVIXlx/s2hkVK\nAm+kN0VJw2flbWA3ZT5ORy7UoBc6HiKNO9X6LoVpAoGAZYsqy+M+ne3Ab9/8/+BR\nuMeNzWZv2hlNqJv/+HmWOILW03LzBqYiYE2hvO8csfzZf05wrpw6REpdbvq8+vEM\nbzPyywY1S9eKNkLRo/d8rf4pYPAZub6ODAAQz2xPIWnglpboWKsLerzOCuozf70E\nJH5mHtM/1Z5O5Aius1Syqsk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dd3et@tourapp-udemy.iam.gserviceaccount.com",
+  "client_id": "108359154409824453912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dd3et%40tourapp-udemy.iam.gserviceaccount.com"
+}

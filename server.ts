@@ -6,4 +6,6 @@ app.disable("x-powered-by");
 
 app.use("/v1", routerV1);
 
+console.log(process.env.NODE_ENV);
+
 app.listen(process.env.PORT || 8091, () => console.log("Server Started..."));

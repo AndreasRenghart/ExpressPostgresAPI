@@ -9,4 +9,5 @@ class DataStore {
 }
 DataStore.tours = tours_json_1.default;
 DataStore.reviews = reviews_json_1.default;
+DataStore.accounts = [];
 exports.DataStore = DataStore;
