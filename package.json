@@ -21,7 +21,7 @@
     "@types/uuid": "^3.4.4"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "change-case-object": "^2.0.0",
     "express": "^4.16.4",
